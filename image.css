@@ -1,0 +1,10 @@
+.columns.is-multiline.is-justify-content-center {
+    /* Sesuaikan gaya grid sesuai kebutuhan Anda */
+  }
+  
+  .cause-item img {
+    width: 250px;
+    height: 350px;
+    object-fit: cover; /* Opsional, untuk memastikan gambar diisi dengan benar */
+  }
+  
